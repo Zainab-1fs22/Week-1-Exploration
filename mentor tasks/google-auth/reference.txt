@@ -1,0 +1,26 @@
+react app
+https://reactjs.org/docs/create-a-new-react-app.html
+
+What is Google Authenticator?
+https://www.techtarget.com/searchsecurity/definition/Google-Authenticator
+
+How to Add Authentication with Google Authenticator in Node.js
+https://blog.shahednasser.com/how-to-add-authentication-with-google-authenticator-in-node-js/
+
+We will cover:
+1.Packages needed to add Google login to your React app
+2.Acquiring a Google client ID for your project
+3.Configuring a Google login consent screen for your React app
+4.Creating your web client ID
+5.Putting it all together with react-google-login
+6.Creating a user profile in your React app based on the user’s Google profile
+https://blog.logrocket.com/guide-adding-google-login-react-app/
+
+https://stackoverflow.com/questions/63948396/issue-when-trying-to-register-an-app-for-consent-screen-in-google-oauth/64040236#64040236
+
+https://stackoverflow.com/questions/49589493/is-there-any-harm-in-using-npm-and-yarn-in-the-same-project
+
+https://stackoverflow.com/questions/60454251/how-to-know-the-version-of-currently-installed-package-from-yarn-lock
+
+absolute for centering everything
+https://dev.to/ayushmanbthakur/different-ways-to-center-a-div-in-a-webpage-5enn
