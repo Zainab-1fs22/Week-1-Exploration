@@ -1,2 +1,2 @@
-# Week-1-Exploration
-call stack, es6, event loop, google-auth
+# Week1
+google auth, es6, event loop, call-stack
